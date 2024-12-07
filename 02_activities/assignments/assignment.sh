@@ -52,6 +52,7 @@ cd data
 touch inventory.txt
 ls *-f (processed)
 
+
 ###########################################
 
 echo "Project setup is complete!"
